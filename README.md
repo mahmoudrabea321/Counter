@@ -35,12 +35,12 @@ It allows users to **increase, decrease, and reset** a number with a clean and r
    cd counter-app
 ````
 
-2. **Run the app**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://counter-roan-delta.vercel.app/)
 
-   * Just open the `index.html` file in your browser 🌍
-   * No Node.js or npm required
 
 ---
+
 
 ## 📂 Folder Structure
 
