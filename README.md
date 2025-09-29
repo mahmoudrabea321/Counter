@@ -52,13 +52,6 @@ counter-app/
 │-- README.md
 ```
 
----
-
-## 📸 Screenshots
-
-*Add a screenshot of the counter UI here (showing +, -, and reset buttons).*
-
----
 
 ## 📜 License
 
